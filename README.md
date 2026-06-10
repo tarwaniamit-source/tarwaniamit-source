@@ -2,9 +2,9 @@
 
 **Product Manager** — B2B SaaS · Fintech (Lending & Payments) · AI Agent Builder
 
-I turn ambiguous problems into shipped products. I like working close to the
-metal — writing the PRD, mapping the user journey, and building a working
-prototype to de-risk the idea before a line of production code is committed.
+I thrive in solving ambiguous problems and turning them into impactful products. 
+My approach is hands-on: defining the problem, crafting clear PRDs, mapping user journeys, 
+and validating concepts through prototypes to de-risk execution and accelerate product delivery.
 
 🔭 **What you'll find here:** product case studies, not just code. Each repo
 leads with the problem, the users, my decisions and trade-offs, a working
