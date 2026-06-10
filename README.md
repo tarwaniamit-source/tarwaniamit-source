@@ -54,8 +54,8 @@ prototype, and how I'd measure success.
 
 ### 📫 Connect
 
-- LinkedIn: <!-- add your profile URL -->
-- Email: <!-- add your email -->
+- LinkedIn: <!-- https://www.linkedin.com/in/amit-tarwani/ -->
+- Email: <!-- tarwaniamit@gmail.com-->
 - Portfolio: https://tarwaniamit-source.github.io/Amit-Tarwani-Profile/
 
 <sub>This page is my GitHub profile README. The repos above are pinned on my profile and shareable at <b>github.com/tarwaniamit-source</b>.</sub>
